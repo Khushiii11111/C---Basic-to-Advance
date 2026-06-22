@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Scan Function
+
 int main() {
     int age;
     printf("enter age: ");
