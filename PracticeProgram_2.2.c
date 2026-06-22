@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//area of square
+//area of square with float value
 
 int main() {
     int float;
