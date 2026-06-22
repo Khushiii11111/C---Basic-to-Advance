@@ -31,3 +31,4 @@ int main() {
 to understand how it actually works.
 We also undestood different types of variables: containers to store data.
 And Data Types like int, float, char as well, put into a single code file to differentiate them.*/
+/*(Multi-line Comment)*/
